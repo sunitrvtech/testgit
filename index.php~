@@ -7,9 +7,6 @@ echo "from old repo";
 echo "this change is in testbranch";
 echo "this is a tracking branch test";
 echo "this is a tracking branch 2 ";
-<<<<<<< HEAD
-echo "this is a tracking branch 3 ";
-=======
 
->>>>>>> b359c875d97b63374a18ff76a792332c629dd7b6
+echo "this is a tracking branch 3 ";
 ?>
