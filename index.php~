@@ -14,10 +14,12 @@ echo "this is a tracking branch 5 ";
 echo "this is a tracking branch 6 ";
 echo "this is a tracking branch 7"; 
 echo "this is a tracking branch 1   "; 
-<<<<<<< HEAD
+
 
 echo "commit form 1"
-=======
+
 echo "commit 1";
->>>>>>> a07fe61e89b2181a42dea714ad5bbb4e4a498649
+
+echo "commit 2";
+
 ?>
