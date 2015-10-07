@@ -24,4 +24,6 @@ echo "commit 2";
 
 echo "commit ";
 
+echo "commit test";
+
 ?>
